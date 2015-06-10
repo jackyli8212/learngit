@@ -1,2 +1,3 @@
 Git is a very useful version control tool.
 Add a new line for commit.
+Add the third line for modify the file.
