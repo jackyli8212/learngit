@@ -1,1 +1,2 @@
 Git is a very useful version control tool.
+Add a new line for commit.
